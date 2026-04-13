@@ -1,18 +1,18 @@
-diffgas
+diffbaryons
 ============
 
 Installation
 ------------
-To install diffgas into your environment from the source code::
+To install diffbaryons into your environment from the source code::
 
-    $ cd /path/to/root/diffgas
+    $ cd /path/to/root/diffbaryons
     $ pip install .
 
 Testing
 -------
 To run the suite of unit tests::
 
-    $ cd /path/to/root/diffgas
+    $ cd /path/to/root/diffbaryons
     $ pytest
 
 To build html of test coverage::
